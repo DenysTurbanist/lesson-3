@@ -76,6 +76,8 @@ header,
 }
 .btn {
   background-color: #e30a17;
+  padding-right: 15px;
+  font-size: medium;
 }
 .exp_btn {
   padding: 10px 33px;
